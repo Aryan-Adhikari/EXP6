@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><c:choose><c:when test="${editing}">Edit employee</c:when><c:otherwise>Add employee</c:otherwise></c:choose> · PeopleDesk</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/app.css">
+    <script src="${pageContext.request.contextPath}/assets/app.js" defer></script>
 </head>
 <body>
 <div class="app-shell">

@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sign in · PeopleDesk</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/app.css">
+    <script src="${pageContext.request.contextPath}/assets/app.js" defer></script>
 </head>
 <body>
 <main class="auth-layout">
